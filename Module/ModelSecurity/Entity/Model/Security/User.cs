@@ -8,5 +8,13 @@ namespace Entity.Model.Security
 {
     internal class User
     {
+        public int Id { get; set; }
+        public string Username { get; set; }
+        public string Password { get; set; }
+        public string CreateAt { get; set; }
+        public string UpdateAt { get; set; }
+        public string DeleteAt { get; set; }
+        public string State { get; set; }
+        public int Person_id { get; set; }
     }
 }

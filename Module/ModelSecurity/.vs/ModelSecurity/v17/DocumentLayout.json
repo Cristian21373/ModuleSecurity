@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Entity\\Model\\Security\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Model\\Security\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF24981D-DACD-44D5-917D-7D771B21955F}|Diagram\\Diagram.csproj|c:\\users\\sena\\desktop\\modulesecurity\\module\\modelsecurity\\diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{CF24981D-DACD-44D5-917D-7D771B21955F}|Diagram\\Diagram.csproj|solutionrelative:diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Diagram\\DbModel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Diagram\\DbModel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{81F8B829-D38F-4628-977F-CC894FA12D14}|Entity\\Entity.csproj|c:\\users\\sena\\desktop\\modulesecurity\\module\\modelsecurity\\entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F8B829-D38F-4628-977F-CC894FA12D14}|Entity\\Entity.csproj|solutionrelative:entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Diagram\\DbModel.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Diagram\\DbModel.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{81F8B829-D38F-4628-977F-CC894FA12D14}|Entity\\Entity.csproj|c:\\users\\sena\\desktop\\modulesecurity\\module\\modelsecurity\\entity\\model\\security\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F8B829-D38F-4628-977F-CC894FA12D14}|Entity\\Entity.csproj|solutionrelative:entity\\model\\security\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Diagram\\Diagram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Diagram\\Diagram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{81F8B829-D38F-4628-977F-CC894FA12D14}|Entity\\Entity.csproj|c:\\users\\sena\\desktop\\modulesecurity\\module\\modelsecurity\\entity\\model\\security\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F8B829-D38F-4628-977F-CC894FA12D14}|Entity\\Entity.csproj|solutionrelative:entity\\model\\security\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Diagram\\DbModel.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Diagram\\DbModel.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF24981D-DACD-44D5-917D-7D771B21955F}|Diagram\\Diagram.csproj|C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Diagram\\DbModel.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF24981D-DACD-44D5-917D-7D771B21955F}|Diagram\\Diagram.csproj|solutionrelative:Diagram\\DbModel.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,45 +30,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Entity\\Model\\Security\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Security\\User.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Entity\\Model\\Security\\User.cs",
+              "RelativeToolTip": "Entity\\Model\\Security\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T21:18:05.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Entity\\Context\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Entity\\Context\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Entity\\Context\\ApplicationDBContext.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAtwDoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T20:53:21.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DbModel.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Diagram\\DbModel.edmx",
               "RelativeDocumentMoniker": "Diagram\\DbModel.edmx",
               "ToolTip": "C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Diagram\\DbModel.edmx [Diagram1]",
               "RelativeToolTip": "Diagram\\DbModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-07-26T19:53:49.868Z",
+              "WhenOpened": "2024-07-26T20:43:06.656Z",
               "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DbModel.edmx.diagram",
-              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Diagram\\DbModel.edmx.diagram",
-              "RelativeDocumentMoniker": "Diagram\\DbModel.edmx.diagram",
-              "ToolTip": "C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Diagram\\DbModel.edmx.diagram",
-              "RelativeToolTip": "Diagram\\DbModel.edmx.diagram",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-26T19:53:48.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Diagram.csproj",
-              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Diagram\\Diagram.csproj",
-              "RelativeDocumentMoniker": "Diagram\\Diagram.csproj",
-              "ToolTip": "C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Diagram\\Diagram.csproj",
-              "RelativeToolTip": "Diagram\\Diagram.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-26T19:53:47.338Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -85,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Entity\\Model\\Security\\Person.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\Security\\Person.cs",
               "ToolTip": "C:\\Users\\SENA\\Desktop\\ModuleSecurity\\Module\\ModelSecurity\\Entity\\Model\\Security\\Person.cs",
               "RelativeToolTip": "Entity\\Model\\Security\\Person.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T19:31:55.74Z",
               "EditorCaption": ""

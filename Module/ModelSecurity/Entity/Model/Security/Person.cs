@@ -22,7 +22,13 @@ namespace Entity.Model.Security
 
         public int Document {  get; set; }
 
-        public int Birth_of_date { get; set; }
+        public DateTime Birth_of_date { get; set; }
+
+        public string CreateAt { get; set; }
+        public string UpdateAt { get; set; }
+        public string DeleteAt { get; set; }
+        public int Phone { get; set; }
+        public string State { get; set; }
 
 
 

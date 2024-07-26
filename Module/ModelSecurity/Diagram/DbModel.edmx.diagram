@@ -11,7 +11,7 @@
         <EntityTypeShape EntityType="DbModel.Role" Width="1.5" PointX="6.625" PointY="1.125" />
         <EntityTypeShape EntityType="DbModel.RoleView" Width="1.5" PointX="8.5" PointY="1.125" />
         <EntityTypeShape EntityType="DbModel.View" Width="1.5" PointX="10.375" PointY="1" />
-        <EntityTypeShape EntityType="DbModel.Module" Width="1.5" PointX="13.125" PointY="1.25" />
+        <EntityTypeShape EntityType="DbModel.Module" Width="1.5" PointX="12.875" PointY="1.125" />
         <AssociationConnector Association="DbModel.UserPerson" />
         <AssociationConnector Association="DbModel.RoleViewRole" />
         <AssociationConnector Association="DbModel.RoleViewView" />

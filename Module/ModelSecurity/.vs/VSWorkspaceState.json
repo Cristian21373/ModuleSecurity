@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Business",
+    "\\Diagram",
+    "\\Entity",
+    "\\Entity\\Model",
+    "\\Entity\\Model\\Security"
+  ],
+  "SelectedNode": "\\Entity\\Model\\Security\\Person.cs",
+  "PreviewInSolutionExplorer": false
+}
